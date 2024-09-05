@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.8fa1c144.css",
+    "main.js": "/my-portfolio/static/js/main.72f9532f.js",
+    "static/media/hero (2).jpg": "/my-portfolio/static/media/hero (2).309ffd40d379f211fed4.jpg",
+    "static/media/portfolio_photo.png": "/my-portfolio/static/media/portfolio_photo.7151773c582a9b02dbca.png",
+    "static/media/portfolio-1.jpg": "/my-portfolio/static/media/portfolio-1.35189ff2acec4c3a7590.jpg",
+    "static/media/Ganesh_Jadhav_res.pdf": "/my-portfolio/static/media/Ganesh_Jadhav_res.0bdb0a0523cafadcdeb9.pdf",
+    "static/media/profile.jpg": "/my-portfolio/static/media/profile.2f8db85375ed46b4bf01.jpg",
+    "static/media/maxresdefault.jpg": "/my-portfolio/static/media/maxresdefault.6e3dfbe1586c093e0164.jpg",
+    "static/media/portfolio-3.jpg": "/my-portfolio/static/media/portfolio-3.bed629fe2787a6eb603e.jpg",
+    "static/media/Project_image_swiggy.jpg": "/my-portfolio/static/media/Project_image_swiggy.9ca45a71341142b89b0f.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.8fa1c144.css.map": "/my-portfolio/static/css/main.8fa1c144.css.map",
+    "main.72f9532f.js.map": "/my-portfolio/static/js/main.72f9532f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa1c144.css",
+    "static/js/main.72f9532f.js"
+  ]
+}
